@@ -13,23 +13,10 @@ This project explores the use of machine learning to predict waiter tips based o
 * Helps waiters understand factors that impact tips
 * Offers valuable data for restaurant owners
 
-**Getting Started**
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/Mohshaikh23/Waiter-Tips-Prediction
-   ```
-
-2. Install required libraries (refer to `requirements.txt` for details)
-
-3. Run the script to train the model and explore results
 
 **Contributing**
 
 We welcome contributions! Feel free to open an issue or create a pull request.
 
-**License:**
 
-This project is licensed under [License Name] (see LICENSE file for details).
 
